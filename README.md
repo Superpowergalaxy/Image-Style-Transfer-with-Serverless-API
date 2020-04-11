@@ -30,5 +30,5 @@ To take out the file, in an sepreate window run:
 
 find the docker's  CONTAINER ID  and run:
 
-    sudo docker cp -r 'CONTAINER ID':/tmp/result result
+    sudo docker cp -r 'CONTAINER ID':/tmp/result /result
 
